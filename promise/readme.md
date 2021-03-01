@@ -1,0 +1,2 @@
+1) make the a promise-based "timeout" function. The promise just needs to resolve after a given period of time.
+2) perform two sequential calls to the function. Before and after each call, show a console.log notifying about the current action.
