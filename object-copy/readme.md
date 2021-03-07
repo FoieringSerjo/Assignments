@@ -1,0 +1,1 @@
+Find a way to deep-copy the person object. Every inner object should be copied as a NEW one. === comparison should return false, in all depths(besides primitive values).
